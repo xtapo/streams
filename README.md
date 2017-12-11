@@ -29,3 +29,11 @@ Repository hosting test streams used by https://github.com/video-dev/hls.js
 	- Playlist type event (Event stream)
 	- Switch to different PMT / PIDs in Transport Stream
 	- Switch to unencrypted mode for ad inserted
+
+- pts_shift/master.m3u8 (DK Turntable)
+
+	- Unencrypted
+	- 4 qualities with different bitrates and resolution
+	- PTS shifted by 2.336s for all qualities
+	- Provides backup stream
+	- Target duration is 5s
