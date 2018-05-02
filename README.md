@@ -16,13 +16,13 @@ Repository hosting test streams used by https://github.com/video-dev/hls.js (and
 
 File: `x36xhzz/x36xhzz.m3u8`
 
-CDN: https://rawgit.com/video-dev/streams/master/x36xhzz/x36xhzz.m3u8
+CDN: https://cdn.rawgit.com/video-dev/streams/3036c9c3/x36xhzz/x36xhzz.m3u8
 	
 ### 2) Big Buck Bunny (sample-AES encrypted)
 
 File: `bbbAES/playlists/sample_aes/index.m3u8`
 
-CDN: https://rawgit.com/video-dev/streams/master/bbbAES/playlists/sample_aes/index.m3u8
+CDN: https://cdn.rawgit.com/video-dev/streams/3036c9c3/bbbAES/playlists/sample_aes/index.m3u8
 
 ### 3) Issue 666 
 
@@ -30,7 +30,7 @@ CDN: https://rawgit.com/video-dev/streams/master/bbbAES/playlists/sample_aes/ind
 
 File: `issue666/playlists/cisq0gim60007xzvi505emlxx.m3u8`
 
-CDN: https://rawgit.com/video-dev/streams/master/issue666/playlists/cisq0gim60007xzvi505emlxx.m3u8
+CDN: https://cdn.rawgit.com/video-dev/streams/3036c9c3/issue666/playlists/cisq0gim60007xzvi505emlxx.m3u8
 
 ### 4) Arte TV VOD
 
@@ -40,13 +40,13 @@ CDN: https://rawgit.com/video-dev/streams/master/issue666/playlists/cisq0gim6000
 - 10 seconds segments, 50 segments total (500 seconds duration)
 
 File: `test_001/stream.m3u8`
-CDN: https://rawgit.com/video-dev/streams/master/test_001/stream.m3u8
+CDN: https://cdn.rawgit.com/video-dev/streams/3036c9c3/test_001/stream.m3u8
 
 ### 5) Deltatre/BT DAI discontinuity
 
 File: `dai-discontinuity-deltatre/manifest.m3u8`
 
-CDN: https://rawgit.com/video-dev/streams/master/dai-discontinuity-deltatre/manifest.m3u8
+CDN: https://cdn.rawgit.com/video-dev/streams/3036c9c3/dai-discontinuity-deltatre/manifest.m3u8
 
 - Single rendition/quality
 - AES-128 encrypted (new key per segment)
@@ -59,7 +59,7 @@ CDN: https://rawgit.com/video-dev/streams/master/dai-discontinuity-deltatre/mani
 
 File: `pts_shift/master.m3u8`
 
-CDN: https://rawgit.com/video-dev/streams/master/pts_shift/master.m3u8
+CDN: https://cdn.rawgit.com/video-dev/streams/3036c9c3/pts_shift/master.m3u8
 
 - Unencrypted
 - 4 qualities with different bitrates and resolution
