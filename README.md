@@ -18,7 +18,7 @@ Github-Pages is assumed to use some sort of CDN to host the content of the maste
 
 File: `x36xhzz/x36xhzz.m3u8`
 
-CDN: https://video-dev.github.io/streams/streams/3036c9c3/x36xhzz/x36xhzz.m3u8
+CDN: https://video-dev.github.io/streams/x36xhzz/x36xhzz.m3u8
 	
 ### 2) Big Buck Bunny (sample-AES encrypted)
 
