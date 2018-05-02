@@ -1,8 +1,16 @@
-# Streams
+# Video-dev group test streams
 
-Repository hosting test streams used by https://github.com/video-dev/hls.js
+Repository hosting test streams used by https://github.com/video-dev/hls.js (and maybe others)
 
-## Index 
+## 
+ 
+## Index
+
+- bbbAES/playlists/sample_aes/index.m3u8 (Big Buck Bunny with Sample-AES)
+
+- issue666/playlists/cisq0gim60007xzvi505emlxx.m3u8 (Issue 666)
+
+	- Byte-ranges into one large TS file
 
 - test_001/stream.m3u8 (Arte TV)
 
