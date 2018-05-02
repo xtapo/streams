@@ -14,13 +14,13 @@ Repository hosting test streams used by https://github.com/video-dev/hls.js (and
 - Codec MIME-types given in master playlist
 - Highly encapsulated directory structure (one sub-dir per segment)
 
-File: x36xhzz/x36xhzz.m3u8
+File: `x36xhzz/x36xhzz.m3u8`
 
 CDN: https://rawgit.com/video-dev/streams/master/x36xhzz/x36xhzz.m3u8
 	
 ### 2) Big Buck Bunny (sample-AES encrypted)
 
-File: bbbAES/playlists/sample_aes/index.m3u8
+File: `bbbAES/playlists/sample_aes/index.m3u8`
 
 CDN: https://rawgit.com/video-dev/streams/master/bbbAES/playlists/sample_aes/index.m3u8
 
@@ -28,9 +28,9 @@ CDN: https://rawgit.com/video-dev/streams/master/bbbAES/playlists/sample_aes/ind
 
 - Byte-ranges into one large TS file
 
-File: issue666/playlists/cisq0gim60007xzvi505emlxx.m3u8
+File: `issue666/playlists/cisq0gim60007xzvi505emlxx.m3u8`
 
-CDN: https://rawgit.com/video-dev/streams/master/bbbAES/playlists/sample_aes/index.m3u8
+CDN: https://rawgit.com/video-dev/streams/master/issue666/playlists/cisq0gim60007xzvi505emlxx.m3u8
 
 ### 4) Arte TV VOD
 
@@ -39,12 +39,12 @@ CDN: https://rawgit.com/video-dev/streams/master/bbbAES/playlists/sample_aes/ind
 - 48k AAC audio (no audio-only stream)
 - 10 seconds segments, 50 segments total (500 seconds duration)
 
-File: test_001/stream.m3u8
+File: `test_001/stream.m3u8`
 CDN: https://rawgit.com/video-dev/streams/master/test_001/stream.m3u8
 
 ### 5) Deltatre/BT DAI discontinuity
 
-File: dai-discontinuity-deltatre/manifest.m3u8
+File: `dai-discontinuity-deltatre/manifest.m3u8`
 
 CDN: https://rawgit.com/video-dev/streams/master/dai-discontinuity-deltatre/manifest.m3u8
 
@@ -57,7 +57,7 @@ CDN: https://rawgit.com/video-dev/streams/master/dai-discontinuity-deltatre/mani
 
 ### 6) DK Turntable PTS shift
 
-File: pts_shift/master.m3u8 
+File: `pts_shift/master.m3u8`
 
 CDN: https://rawgit.com/video-dev/streams/master/pts_shift/master.m3u8
 
