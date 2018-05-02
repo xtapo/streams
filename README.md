@@ -1,6 +1,8 @@
 # Video-dev group test streams
 
-Repository hosting test streams used by https://github.com/video-dev/hls.js (and maybe others)
+Repository hosting test streams used by https://github.com/video-dev/hls.js (and maybe others).
+
+Github-Pages is assumed to use some sort of CDN to host the content of the master branch here. Using these for any kind of testing should not hit any traffic limitations therefore.
  
 ## Index
 
@@ -16,13 +18,13 @@ Repository hosting test streams used by https://github.com/video-dev/hls.js (and
 
 File: `x36xhzz/x36xhzz.m3u8`
 
-CDN: https://cdn.rawgit.com/video-dev/streams/3036c9c3/x36xhzz/x36xhzz.m3u8
+CDN: https://video-dev.github.io/streams/streams/3036c9c3/x36xhzz/x36xhzz.m3u8
 	
 ### 2) Big Buck Bunny (sample-AES encrypted)
 
 File: `bbbAES/playlists/sample_aes/index.m3u8`
 
-CDN: https://cdn.rawgit.com/video-dev/streams/3036c9c3/bbbAES/playlists/sample_aes/index.m3u8
+CDN: https://video-dev.github.io/streams/bbbAES/playlists/sample_aes/index.m3u8
 
 ### 3) Issue 666 
 
@@ -30,7 +32,7 @@ CDN: https://cdn.rawgit.com/video-dev/streams/3036c9c3/bbbAES/playlists/sample_a
 
 File: `issue666/playlists/cisq0gim60007xzvi505emlxx.m3u8`
 
-CDN: https://cdn.rawgit.com/video-dev/streams/3036c9c3/issue666/playlists/cisq0gim60007xzvi505emlxx.m3u8
+CDN: https://video-dev.github.io/streams/issue666/playlists/cisq0gim60007xzvi505emlxx.m3u8
 
 ### 4) Arte TV VOD
 
@@ -40,13 +42,14 @@ CDN: https://cdn.rawgit.com/video-dev/streams/3036c9c3/issue666/playlists/cisq0g
 - 10 seconds segments, 50 segments total (500 seconds duration)
 
 File: `test_001/stream.m3u8`
-CDN: https://cdn.rawgit.com/video-dev/streams/3036c9c3/test_001/stream.m3u8
+
+CDN: https://video-dev.github.io/streams/test_001/stream.m3u8
 
 ### 5) Deltatre/BT DAI discontinuity
 
 File: `dai-discontinuity-deltatre/manifest.m3u8`
 
-CDN: https://cdn.rawgit.com/video-dev/streams/3036c9c3/dai-discontinuity-deltatre/manifest.m3u8
+CDN: https://video-dev.github.io/streams/dai-discontinuity-deltatre/manifest.m3u8
 
 - Single rendition/quality
 - AES-128 encrypted (new key per segment)
@@ -59,7 +62,7 @@ CDN: https://cdn.rawgit.com/video-dev/streams/3036c9c3/dai-discontinuity-deltatr
 
 File: `pts_shift/master.m3u8`
 
-CDN: https://cdn.rawgit.com/video-dev/streams/3036c9c3/pts_shift/master.m3u8
+CDN: https://video-dev.github.io/streams/pts_shift/master.m3u8
 
 - Unencrypted
 - 4 qualities with different bitrates and resolution
